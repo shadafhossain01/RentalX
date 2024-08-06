@@ -1,0 +1,777 @@
+
+
+@media (max-width:339.9px){
+    nav{
+        background-color: #FE5B3E;
+
+     
+    }
+
+ .navbar-brand{
+        color: white !important;
+ 
+        font-size: 30px;
+    }
+    .navbar-light .navbar-toggler {
+        color: white !important;
+        border-color: rgb(255, 255, 255);
+    }
+
+    .navbar-collapse {
+
+        text-align: center;
+        color: white !important;
+}
+
+.nav-link{
+    color: white !important;
+}
+
+.nav-right{
+    flex-direction: column;
+    color: white !important;
+}
+
+.nav-right a{
+    color: white !important;
+    font-size: 17px;
+    font-weight: 700;
+}
+.nav-right button{
+    margin-left: 0px;
+    font-size: 17px;
+    font-weight: 700;
+    margin-top: 10px;
+}
+header {
+
+    padding: 131px 0px;
+}
+.header-content h2{
+    font-size: 25px;
+}
+
+.header-right {
+ 
+    margin-top: 85px;
+}
+
+.header-right::before {
+  
+    width: 100%;
+    height: 145%;
+    z-index: -1;
+    top: -65px;
+    right: 0px;
+    border-radius: 0px;
+}
+
+.step {
+    padding: 140px 0px;
+}
+.top-content h3 {
+    font-size: 21px;
+    margin-top: 8px;
+}
+.step-box {
+    margin-bottom: 45px;
+}
+
+.service img{
+    margin-bottom: 40px;
+}
+.service h3 {
+    font-size: 23px;
+}
+.service-item {
+    margin: 40px 0px;
+}
+.service span {
+    font-size: 19px;}
+
+    .service p {
+        font-size: 13px;}
+
+.experience-left {
+    padding: 0px;
+}
+
+.experience-right{
+    padding: 0px;
+}
+
+
+.experience-content p {
+    font-size: 12px;
+    font-weight: 900;}
+
+
+
+.experience img{
+    display: none;
+}
+
+.ex-bg {
+    width: 348%;
+    height: 72vh;
+    opacity: 0.4;
+    z-index: -1;
+    margin-left: -105px;
+    display: block;
+}
+.download {
+   padding: 0px;
+}
+
+
+.download-right img {
+    display: none;
+            }
+    
+            .download-left {
+                padding-left: 10px;
+            }
+            .download-left h3 {
+                font-size: 18px;}
+    
+                .download-content{
+                    padding: 15px 0px;
+                }
+    
+    
+                .download-left img {
+                    width: 40%;}
+    
+    
+                    .download-left p {
+                        font-size: 15px;}
+
+                        footer{
+ 
+                            padding: 0px;
+                        }
+                        .footer-bottom h3 {
+                           display: none;
+                        }
+                        
+                        .footer-bottom {
+                            flex-direction: column;
+                            padding-bottom: 23px;
+                            text-align: center;
+                        }
+                        
+                        .footer-bottom p {
+                        
+                            margin-bottom: 19px;
+                        }
+
+                        .footer-top h5 {
+                            font-size: 18px;}
+
+
+
+}
+
+
+
+@media (min-width:340px) and (max-width:360.9px){
+    nav{
+        background-color: #FE5B3E;
+
+     
+    }
+
+ .navbar-brand{
+        color: white !important;
+ 
+        font-size: 30px;
+    }
+    .navbar-light .navbar-toggler {
+        color: white !important;
+        border-color: rgb(255, 255, 255);
+    }
+
+    .navbar-collapse {
+
+        text-align: center;
+        color: white !important;
+}
+
+.nav-link{
+    color: white !important;
+}
+
+.nav-right{
+    flex-direction: column;
+    color: white !important;
+}
+
+.nav-right a{
+    color: white !important;
+    font-size: 17px;
+    font-weight: 700;
+}
+.nav-right button{
+    margin-left: 0px;
+    font-size: 17px;
+    font-weight: 700;
+    margin-top: 10px;
+}
+
+header {
+    padding: 135px 0px;
+}
+
+
+.header-content h2 {
+
+    font-size: 30px;
+}
+
+.header-right {
+   
+    margin-top: 80px;
+}
+
+.header-right::before {
+    width: 100%;
+    top: -65px;
+    right: 0px;
+    border-radius: 0px;
+}
+
+.top-content h3 {
+font-size: 23px;
+    margin-top: 7px;
+}
+
+.step {
+    padding: 165px 0px;
+}
+ .step-box {
+
+    margin-bottom: 45px;
+}
+
+.service img{
+    margin-bottom: 40px;
+}
+.service h3 {
+    font-size: 23px;
+}
+.service-item {
+    margin: 40px 0px;
+}
+.service span {
+    font-size: 19px;}
+
+    .service p {
+        font-size: 13px;}
+
+
+        .experience-left {
+            padding: 0px;
+        }
+        
+        .experience-right{
+            padding: 0px;
+        }
+        
+        
+        .experience-content p {
+            font-size: 12px;
+            font-weight: 900;}
+        
+        
+        
+        .experience img{
+            display: none;
+        }
+        
+        .ex-bg {
+            width: 391%;
+            height: 90vh;
+            opacity: 0.4;
+            z-index: -1;
+            margin-left: -143px;
+            display: block;
+        }
+        .download {
+       padding: 0px;
+        }
+
+        .download-right img {
+display: none;
+        }
+
+        .download-left {
+            padding-left: 10px;
+        }
+        .download-left h3 {
+            font-size: 22px;}
+
+            .download-content{
+                padding: 15px 0px;
+            }
+
+
+            .download-left img {
+                width: 40%;}
+
+                footer{
+ 
+                    padding: 0px;
+                }
+                .footer-bottom h3 {
+                   display: none;
+                }
+                
+                .footer-bottom {
+                    flex-direction: column;
+                    padding-bottom: 23px;
+                    text-align: center;
+                }
+                
+                .footer-bottom p {
+                
+                    margin-bottom: 19px;
+                }
+
+
+}
+
+
+
+
+
+@media (min-width:361px) and (max-width:575.99px){
+
+   
+
+    nav{
+        background-color: #FE5B3E;
+
+     
+    }
+
+ .navbar-brand{
+        color: white !important;
+ 
+        font-size: 30px;
+    }
+    .navbar-light .navbar-toggler {
+        color: white !important;
+        border-color: rgb(255, 255, 255);
+    }
+
+    .navbar-collapse {
+
+        text-align: center;
+        color: white !important;
+}
+
+.nav-link{
+    color: white !important;
+}
+
+.nav-right{
+    flex-direction: column;
+    color: white !important;
+}
+
+.nav-right a{
+    color: white !important;
+    font-size: 17px;
+    font-weight: 700;
+}
+.nav-right button{
+    margin-left: 0px;
+    font-size: 17px;
+    font-weight: 700;
+    margin-top: 10px;
+}
+header {
+    padding: 140px 0px;
+}
+
+
+.header-right {
+    margin-top: 80px;
+}
+
+
+.header-right::before {
+
+    width: 100%;
+    height: 145%;
+    z-index: -1;
+    top: -66px;
+    right: 0px;
+    border-radius: 0px;
+}
+
+.header-content h2{
+    font-size: 32px;
+}
+.sm-p {
+    margin: 28px 0px;
+}
+
+.step {
+    padding-top: 200px;
+}
+.top-content {
+    margin-top: 100px;
+}
+.top-content h3 {
+    font-size: 24px;
+    font-weight: 800;
+}
+.step-box {
+    text-align: center;
+    margin-bottom: 45px;
+}
+.service img{
+    margin-bottom: 40px;
+}
+.service h3 {
+    font-size: 23px;
+}
+.service-item {
+    margin: 40px 0px;
+}
+.service span {
+    font-size: 19px;}
+
+    .service p {
+        font-size: 14px;}
+
+        .experience-left {
+            padding: 0px;
+        }
+        
+        .experience-right{
+            padding: 0px;
+        }
+        
+        
+        .experience-content p {
+            font-size: 12px;
+            font-weight: 900;}
+        
+        
+        
+            .experience img {
+                width: 120%;
+            }
+   
+
+
+
+.experience {
+
+    padding: 0px;
+}
+
+.download-right img {
+  display: none;
+}
+
+.download-content {
+    padding: 22px 15px;
+}
+.download-left h3 {
+    font-size: 20px;}
+
+    .download-left {
+padding-left: 0px;
+    }
+
+    .download-left img {
+        width: 30%;}
+
+        .download {
+         
+            padding: 10px 0px;
+        }
+
+
+footer{
+ 
+    padding: 0px;
+}
+.footer-bottom h3 {
+   display: none;
+}
+
+.footer-bottom {
+    flex-direction: column;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.footer-bottom p {
+
+    margin-bottom: 15px;
+}
+
+
+}
+
+
+
+
+@media (min-width:576px) and (max-width:767.99px){
+    .container{
+        max-width: 100% !important;
+       }
+
+ nav{
+        background-color: #FE5B3E;
+
+     
+    }
+
+ .navbar-brand{
+        color: white !important;
+ 
+        font-size: 30px;
+    }
+    .navbar-light .navbar-toggler {
+        color: white !important;
+        border-color: rgb(255, 255, 255);
+    }
+
+    .navbar-collapse {
+
+        text-align: center;
+        color: white !important;
+}
+
+.nav-link{
+    color: white !important;
+}
+
+.nav-right{
+    flex-direction: column;
+    color: white !important;
+}
+
+.nav-right a{
+    color: white !important;
+    font-size: 17px;
+    font-weight: 700;
+}
+.nav-right button{
+    margin-left: 0px;
+    font-size: 17px;
+    font-weight: 700;
+    margin-top: 10px;
+}
+
+.header-right {
+    position: relative;
+    z-index: 999;
+    margin-top: 100px;
+
+}
+
+.header-content h2{
+    font-size: 25px;
+}
+
+
+.header-right::before {
+
+    width: 100%;
+    height: 180%;
+    z-index: -1;
+    top: -96px;
+    right: 9px;
+    border-radius: 20px;
+}
+
+.step {
+    width: 100%;
+    padding: 30px 0px;
+}
+.top-content h3 {
+    font-size: 30px;
+}
+ .step-box {
+    margin-bottom: 50px;
+}
+.service h3 {
+    font-size: 21px;
+}
+
+.service p {
+    font-size: 12px;}
+
+    .service span {
+        font-size: 16px;}
+
+        .experience-right {
+            padding-right: 0px;
+        }
+    
+        .experience-left{
+            padding-left: 0px;
+        }
+
+
+        .experience img {
+            width: 100%;
+        }
+
+      .download-right img{
+        display: none;
+      }
+
+
+      .download-content {
+        padding: 20px 0px;
+    }
+
+    .download-left h3 {
+        font-size: 31px;}
+
+        .footer-bottom {
+        
+            flex-direction: column;}
+
+            .footer-bottom h3{
+                display: none;
+            }
+
+            .footer-bottom p {
+            
+                font-size: 18px;
+                margin-bottom: 15px;
+            }
+
+            .download {
+          padding: 0px;
+            }
+
+            footer{
+                padding: 0px;
+            }
+
+}
+
+
+
+
+@media (min-width:768px) and (max-width:991.99px){
+    .container{
+        max-width: 100% !important;
+    }
+
+    .header-content h2 {
+     
+        font-size: 28px;
+    }
+
+    .step {
+        padding: 50px 0px;
+    }
+    .step-box p {
+      
+        font-size: 14px;
+}
+.service h3 {
+    font-size: 25px !important;
+}
+
+.service p {
+    font-size: 14px;}
+
+    .experience-content p {
+        font-size: 14px;}
+    
+
+        .experience-right {
+            padding-right: 0px;
+        }
+    
+        .experience-left{
+            padding-left: 0px;
+        }
+
+
+
+        .experience img {
+            width: 100%;
+        }
+
+
+        .download-left h3 {
+            font-size: 28px;}
+
+            .download-right img {
+                right: 14px;
+                top: -50px;
+            }
+
+
+            .footer-bottom p {
+             
+                font-size: 16px;
+                margin-bottom: 0px;
+            }
+            .download {
+                width: 100%;
+                padding: 40px 0px;
+            }
+
+
+    }
+
+
+
+
+
+@media (min-width:992px) and (max-width:1199.99px){
+    .header-content h2 {
+   
+        font-size: 36px;
+}
+
+.step {
+
+    padding: 70px 0px;
+}
+
+.service h3 {
+    font-size: 38px;
+    font-weight: 800;
+    margin-bottom: 28px;
+}
+
+.experience-content p {
+    font-size: 13px;}
+
+    .download-right img {
+
+        right: 43px;
+        top: -62px;
+    }
+
+
+    .footer-top {
+        padding-top: 0px;
+    }
+
+
+}
+
+
+
+@media (min-width:1200px) {
+    .service h3 {
+        font-size: 35px;}
+
+
+
+}
